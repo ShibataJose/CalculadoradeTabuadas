@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora de Tabuadas</string>
+    <string name="app_Saudacoes">Bem-Vindo ao Calculadora de Tabuadas!!!</string>
+    <string name="app_nomeUsuario">Digite Seu Nome!</string>
+    <string name="app_nomeBotao1">Aplicar</string>
+    <string name="app_saudacoesT2">Olá José!!! </string>
+    <string name="app_saudacoes2T2">No campo abaixo, digite o numero a ser multiplicado.</string>
+    <string name="app_campoValor">Digite o valor a ser multiplicado</string>
+
+</resources>
